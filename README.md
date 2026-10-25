@@ -8,7 +8,7 @@ A simple, robust, and end-to-end Deep Learning Natural Language Processing (NLP)
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Streamlit Live Demo
 
 Test the live production model directly in your browser:
 👉 **[https://nlp-spam-detection.streamlit.app/](https://nlp-spam-detection.streamlit.app/)**
